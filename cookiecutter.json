@@ -1,12 +1,12 @@
 {
     "project_name": "My Flask App",
-    "author_name": "Sureshkumar",
-    "author_email": "sureshguru.kumar04@gmail.com",
+    "author_name": "Your Name",
+    "author_email": "your.email@example.com",
     "description": "A simple Flask application",
-    "route_name": "index",
     "route_url": "/",
-    "route_function": "index",
+    "route_function": "hello_world",
     "template_name": "index.html",
-    "_template": "cookiecutter-flask-app"
+    "title": "My Flask App",
+    "greeting": "Hello, Flask!"
 }
 
