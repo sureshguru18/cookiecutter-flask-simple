@@ -32,7 +32,7 @@ To generate a new Flask project using this Cookiecutter template, follow these s
 ## Directory Structure
 
 After generating a project using this template, you'll have the following directory structure:
-
+```bash
 my_flask_app/
 │
 ├── app.py
@@ -43,7 +43,7 @@ my_flask_app/
 │ └── (HTML templates)
 │
 └── requirements.txt
-
+```
 
 - `app.py`: The main Flask application file with a basic route.
 - `static/`: Directory for static files like CSS, JavaScript, and images.
